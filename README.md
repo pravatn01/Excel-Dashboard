@@ -17,7 +17,7 @@ This project focuses on **data cleaning**, **data processing**, and **dashboard 
 
 Below is the sales dashboard created in Excel that supports the insights generated from the data:
 
-![Sales Dashboard](./Sales Dashboard.png)
+![Sales Dashboard](./Sales%20Dashboard.png)
 
 
 ## Project Details
