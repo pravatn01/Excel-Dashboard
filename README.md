@@ -5,7 +5,7 @@ This project focuses on **data cleaning**, **data processing**, and **dashboard 
 
 ## Key Insights
 - :white_check_mark: **Women** demonstrate a higher likelihood of making purchases than men (~65%).
-- :white_check_mark: The three leading states contributing to sales are **Maharashtra, Karnataka, and Uttar Pradesh** (~35%).
+- :white_check_mark: The three leading states contributing to sales are **Delhi, Karnataka, and Goa** (~35%).
 - :white_check_mark: The majority of buyers belong to the **30-49 age group**, making up nearly 50% of total contributions.
 - :white_check_mark: Online platforms such as **Amazon, Flipkart, and Myntra** dominate as the top sales channels, contributing ~80%.
 
