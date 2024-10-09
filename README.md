@@ -12,7 +12,7 @@ This project focuses on **data cleaning**, **data processing**, and **dashboard 
 - :white_check_mark: Online platforms such as **Amazon, Flipkart, and Myntra** dominate as the top sales channels, contributing ~80%.
 
 ## Final Strategy to Boost Superstore Sales
-- :dart: **Target female customers** aged **30-49 years** residing in **Maharashtra, Karnataka, and Uttar Pradesh**.
+- :dart: **Target female customers** aged **30-49 years** residing in **Delhi, Karnataka, and Goa**.
 - :dart: Use promotional tactics like **discounts, offers, and coupons** available on **Amazon, Flipkart, and Myntra** to increase engagement.
 
 ## Sales Dashboard (Excel)
