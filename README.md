@@ -1,4 +1,6 @@
-# Superstore Sales Insights - Excel Project
+# Superstore Sales Analysis and Dashboard - Excel Project
+
+
 
 ## Project Overview
 This project focuses on **data cleaning**, **data processing**, and **dashboard creation** using Excel. The goal is to derive actionable insights to improve the sales performance of Vrinda Store. The data underwent several stages of cleaning and analysis, which culminated in the creation of an interactive dashboard.
@@ -9,7 +11,7 @@ This project focuses on **data cleaning**, **data processing**, and **dashboard 
 - :white_check_mark: The majority of buyers belong to the **30-49 age group**, making up nearly 50% of total contributions.
 - :white_check_mark: Online platforms such as **Amazon, Flipkart, and Myntra** dominate as the top sales channels, contributing ~80%.
 
-## Final Strategy to Boost Vrinda Store Sales
+## Final Strategy to Boost Superstore Sales
 - :dart: **Target female customers** aged **30-49 years** residing in **Maharashtra, Karnataka, and Uttar Pradesh**.
 - :dart: Use promotional tactics like **discounts, offers, and coupons** available on **Amazon, Flipkart, and Myntra** to increase engagement.
 
