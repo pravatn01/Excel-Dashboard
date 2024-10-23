@@ -1,9 +1,9 @@
-# Superstore Sales Analysis and Dashboard - Excel Project
+# Supermarket Sales Analysis and Dashboard - Excel Project
 
 
 
 ## Project Overview
-This project focuses on **data cleaning**, **data processing**, and **dashboard creation** using Excel. The goal is to derive actionable insights to improve the sales performance of Vrinda Store. The data underwent several stages of cleaning and analysis, which culminated in the creation of an interactive dashboard.
+This project focuses on **data cleaning**, **data processing**, and **dashboard creation** using Excel. The goal is to derive actionable insights to improve the sales performance of Supermarket Store. The data underwent several stages of cleaning and analysis, which culminated in the creation of an interactive dashboard.
 
 ## Key Insights
 - :white_check_mark: **Women** demonstrate a higher likelihood of making purchases than men (~65%).
